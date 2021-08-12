@@ -1,0 +1,35 @@
+{
+    "HEADER": {
+        "Registration": "Đăng ký đại lễ",
+        "Departments": "Các ban trong đại lễ",
+        "HandBook": "Cẩm nang",
+        "Contact": "Liên hệ",
+        "btnLogin": "Đăng nhập",
+        "LanguageSetting": "Ngôn ngữ",
+        "Search": "Tìm kiếm",
+        "More": "Thêm"
+    },
+    "SIGNIN": {
+        "AccountName": "Email hoặc số điện thoại",
+        "Password": "Mật khẩu",
+        "Continue": "Đăng nhập",
+        "Register": "Chưa có tài khoản? Tạo mới ngay.",
+        "AccountNameInvalid": "Email hoặc số điện thoại không hợp lệ!"
+    },
+    "SIGNUP": {
+        "UserName": "Họ và tên",
+        "AccountName": "Địa chỉ email",
+        "Password": "Mật khẩu",
+        "Repassword": "Nhập lại mật khẩu",
+        "Continue": "Tiếp tục",
+        "AccountNameInvalid": "Email hoặc số điện thoại không hợp lệ!",
+        "RepasswordInvalid": "Nhập lại mật khẩu không chính xác!",
+        "PasswordInvalid": "Mật khẩu dài tối thiểu 8 ký tự.",
+        "PhoneNumber": "Số điện thoại",
+        "UserNameInvalid": "Không được để trống họ và tên.",
+        "PhoneNumberInvalid": "Số điện thoại không hợp lệ!"
+    },
+    "DEPARTMENTS": {},
+    "CONTACT": {},
+    "HANDBOOK": {}
+}

@@ -1,0 +1,36 @@
+{
+    "HOME": {},
+    "HEADER": {
+        "Registration": "Festival registration",
+        "Departments": "Departments",
+        "HandBook": "Handbook",
+        "Contact": "Contact",
+        "btnLogin": "SignIn",
+        "LanguageSetting": "Language",
+        "Search": "Search",
+        "More": "More"
+    },
+    "SIGNUP": {
+        "AccountName": "Email address",
+        "UserName": "User name",
+        "Password": "Password",
+        "Repassword": "Re enter password",
+        "Continue": "Continue",
+        "AccountNameInvalid": "Email address is invalid!",
+        "RepasswordInvalid": "Invalid re password!",
+        "PasswordInvalid": "Password can't less than 8 characters!",
+        "PhoneNumber": "Phone number",
+        "UserNameInvalid": "Name cannot be empty!",
+        "PhoneNumberInvalid": "The phone number is invalid!"
+    },
+    "SIGNIN": {
+        "AccountName": "Email or phone number",
+        "Password": "Password",
+        "Continue": "Login",
+        "Register": "Create account",
+        "AccountNameInvalid": "Email or phone number is invalid!"
+    },
+    "DEPARTMENTS": {},
+    "CONTACT": {},
+    "HANDBOOK": {}
+}
