@@ -1,0 +1,10 @@
+Thêm icons headbar.
+Chỉnh shadow menu.
+Sửa lại menu giống đh SP, 3 dạng.
+Thu gọn scroll menu.
+Ẩn arrows, căn giữa arrow.
+Chia lại tỷ lệ news.
+Làm lại footer.
+Thêm thanh copyright.
+
+
